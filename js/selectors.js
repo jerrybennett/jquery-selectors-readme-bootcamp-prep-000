@@ -1,7 +1,7 @@
 // declare your functions here...
 $(function() {
   function paragraphSelector() {
-
+    $('p')
   }
   function lastImageSelector() {
 
@@ -15,5 +15,5 @@ $(function() {
   function firstListItem() {
 
   }
-  
+
 });

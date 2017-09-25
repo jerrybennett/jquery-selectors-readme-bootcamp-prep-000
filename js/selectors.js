@@ -10,7 +10,7 @@
     return $('#baby-ninja')
   }
   function divSelector() {
-    return $('div .pics')
+    return $('.pics')
   }
   function firstListItem() {
     return $('#pic-list ul li:first-child')

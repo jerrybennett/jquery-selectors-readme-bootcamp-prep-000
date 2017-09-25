@@ -13,7 +13,7 @@
     return $('div .pics')
   }
   function firstListItem() {
-    return $('')
+    return $('#')
   }
 
 // });
